@@ -1,0 +1,11 @@
+.product-table{
+    width: 80vw;
+    margin: auto;
+}
+
+.add-product{
+    margin-top: 2vh;
+    width: 40vw;
+    margin-left: auto;
+    margin-right: 10vw;
+}

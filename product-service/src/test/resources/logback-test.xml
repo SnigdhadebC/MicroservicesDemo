@@ -1,0 +1,7 @@
+<configuration>
+    <appender name="static-appender" class="com.stackroute.productservice.StaticAppender" />
+
+    <root level="info">
+        <appender-ref ref="static-appender" />
+    </root>
+</configuration>
